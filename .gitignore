@@ -1,0 +1,21 @@
+# Large data directories (too big for GitHub)
+arc_train/arc_train_images/
+arc_validation/arc_validation_images/
+
+# Zip files
+*.zip
+
+# Model outputs
+outputs/
+lora_model/
+unsloth_finetune/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store

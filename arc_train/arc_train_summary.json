@@ -1,0 +1,9 @@
+{
+  "dataset": "arc-challenge",
+  "split": "train",
+  "total_questions": 1119,
+  "output_file": "/scratch4/mdredze1/hsun74/VSLM_InferenceCode/data/arc_train/arc_train.jsonl",
+  "images_directory": "/scratch4/mdredze1/hsun74/VSLM_InferenceCode/data/arc_train/arc_train_images",
+  "items_with_images": 1119,
+  "failed_images": 0
+}
