@@ -1,6 +1,7 @@
 # Large data directories (too big for GitHub)
 arc_train/arc_train_images/
 arc_validation/arc_validation_images/
+arc_test/arc_test_images/
 
 # Zip files
 *.zip
